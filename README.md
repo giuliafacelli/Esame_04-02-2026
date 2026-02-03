@@ -46,6 +46,7 @@ Esame_04-02-2026/
 │   └── view.py (DA MODIFICARE)
 │
 ├── requirements.txt
+├── Guida esame in laboratorio v02.pdf
 ├── plot_designer.png
 ├── plot_maker.png
 ├── README.md
