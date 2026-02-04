@@ -59,7 +59,7 @@ class Controller:
     def handle_cerca_cammino(self, e):
         if self._view.txt_lunghezza_cammino.value == "":
             self._view.txt_risultato.controls.clear()
-            self._view.txt_risultato.controls.append(ft.Text("Inserire lunghezza del cammino"))
+            self._view.txt_risultato.controls.append(ft.Text(" Inserire lunghezza del cammino"))
             self._view.update()
             return
         try:
